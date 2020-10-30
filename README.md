@@ -12,6 +12,6 @@ security, from the console:
 oci > network > vcn > seclist > add port 80 from anywhere (ala ssh)
 
 and/or check iptables, firewall-cmd, etc..
-¯\_(ツ)_/¯ 
+¯\\_(ツ)_/¯ 
 
 3. Run wpstack.sh.  Make sure to edit your desired passwords, etc. prior to running.
