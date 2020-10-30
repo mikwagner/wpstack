@@ -1,6 +1,3 @@
-sudo yum update;
-sudo yum install docker;
-
 sudo docker network create mysqlnet;
 sudo dockerd &;
 
