@@ -14,4 +14,6 @@ oci > network > vcn > seclist > add port 80 from anywhere (ala ssh)
 and/or check iptables, firewall-cmd, etc..
 ¯\\_(ツ)_/¯ 
 
+4. Optionally, point your domain to the compute instance public IP.
+
 3. Run wpstack.sh.  Make sure to edit your desired passwords, etc. prior to running.
